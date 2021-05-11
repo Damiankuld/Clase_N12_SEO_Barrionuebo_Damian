@@ -1,0 +1,31 @@
+PAGES=
+
+Index:
+    <meta name="description" content="A fan page dedicated to the Darkest Dungeon">
+    <meta name="keywords"  content="darkestdungeon, darkest, gothicgame, game">
+    <title>Darkest Dungeon</title>
+
+enemigos:
+    <meta name="description" content="A compendium of the Darkest Dungeon enemies">
+    <meta name="keywords"  content="darkestdungeon, darkest, gothicgame, game, darkest dungeon enemies">
+    <title>Darkest Dungeon - Enemies</title>
+
+heros:
+    <meta name="description" content="A list of the Darkest Dungeon heroes">
+    <meta name="keywords"  content="darkestdungeon, darkest, gothicgame, game, darkest dungeon heroes, heroes">
+    <title>Darkest Dungeon - Heroes</title>
+
+game:
+    <meta name="description" content="The Darkest Dungeon heroes game">
+    <meta name="keywords"  content="darkestdungeon, darkest, gothicgame, game, darkest dungeon game">
+    <title>Darkest Dungeon - Game</title>
+
+media:
+    <meta name="description" content="The Darkest Dungeon media of the game">
+    <meta name="keywords"  content="darkestdungeon, darkest, gothicgame, media, darkest dungeon media, images">
+    <title>Darkest Dungeon - Media</title>
+
+noticias:
+    <meta name="description" content="The Darkest Dungeon last news">
+    <meta name="keywords"  content="darkestdungeon, darkest, gothicgame, darkest dungeon media, news, darkest dungeon news, last news">
+    <title>Darkest Dungeon - News</title>
